@@ -1,6 +1,6 @@
 {
   "homepage": "http://surya330.github.io/Expense_Tracker_React",
-  "name": "react-complete-guide",
+  "name": "expense_tracker_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
